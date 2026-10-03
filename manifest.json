@@ -1,6 +1,7 @@
 {
+  "id": "para-ti-familia",
   "name": "Para Ti Familia",
-  "short_name": "Para Ti",
+  "short_name": "Familia",
   "description": "Tu música, siempre contigo",
   "start_url": "./index.html",
   "scope": "./",
